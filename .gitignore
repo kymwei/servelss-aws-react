@@ -1,0 +1,4 @@
+.idea/
+serverless-aws-iot/frontend/node_modules/
+serverless-aws-iot/backend/node_modules/
+serverless-aws-iot/backend/.serverless/
